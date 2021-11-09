@@ -1,0 +1,1050 @@
+<Packages>
+    <ApplicationName>MAXIM Micros SDK</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>com.maximintegrated.dist.devices</Name>
+        <Title>MAXIM Microcontrollers</Title>
+        <Description></Description>
+        <Version>1.0.0-74</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520</Name>
+        <Title>MAX32520 Resources</Title>
+        <Description>Firmware, software, and documentation for the max32520.</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.boards</Name>
+        <Title>MAX32520 Boards</Title>
+        <Description>MAX32520 Boards</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>47737</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.cmsis</Name>
+        <Title>MAX32520 CMSIS</Title>
+        <Description>MAX32520 CMSIS Files</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>798128</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.documentation</Name>
+        <Title>MAX32520 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32520</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.examples</Name>
+        <Title>MAX32520 Examples</Title>
+        <Description>MAX32520 Customer Examples</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>884007</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.periphdrivers</Name>
+        <Title>MAX32520 Peripheral Drivers</Title>
+        <Description>MAX32520 Specific Peripheral Drivers</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>9586603</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.sbt</Name>
+        <Title>MAX32520 SBT Packet</Title>
+        <Description>Provide SBT related key, scripts and prebuild SCP packets for MAX32520</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>165743</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32520.target</Name>
+        <Title>MAX32520 Openocd Config File</Title>
+        <Description>MAX32520 Specific Target Files need for OpenOCD</Description>
+        <Version>1.1.0-129</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>689</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32520</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650</Name>
+        <Title>MAX32650 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32650.</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.boards</Name>
+        <Title>MAX32650 Boards</Title>
+        <Description>MAX32650 Boards</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>93170</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.cmsis</Name>
+        <Title>MAX32650 CMSIS</Title>
+        <Description>MAX32650 CMSIS Files</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>2057705</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.documentation</Name>
+        <Title>MAX32650 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32650</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.examples</Name>
+        <Title>MAX32650 Examples</Title>
+        <Description>MAX32650 Customer Examples</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>1955074</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.periphdrivers</Name>
+        <Title>MAX32650 Peripheral Drivers</Title>
+        <Description>MAX32650 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>23613074</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.sbt</Name>
+        <Title>MAX32650 SBT Packet</Title>
+        <Description>Provide SBT related key, scripts and prebuild SCP packets for MAX32650</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>91626</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32650.target</Name>
+        <Title>MAX32650 Openocd Config File</Title>
+        <Description>MAX32650 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-9</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-14</InstallDate>
+        <Size>406</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32650</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655</Name>
+        <Title>MAX32655 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32655.</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.boards</Name>
+        <Title>MAX32655 Boards</Title>
+        <Description>MAX32655 Boards</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>128016</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.cmsis</Name>
+        <Title>MAX32655 CMSIS</Title>
+        <Description>MAX32655 CMSIS Files</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1096695</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.documentation</Name>
+        <Title>MAX32655 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32655</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>5706</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.examples</Name>
+        <Title>MAX32655 Examples</Title>
+        <Description>MAX32655 Customer Examples</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>12573721</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.periphdrivers</Name>
+        <Title>MAX32655 Peripheral Drivers</Title>
+        <Description>MAX32655 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>11576903</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32655.target</Name>
+        <Title>MAX32655 Openocd Config File</Title>
+        <Description>MAX32655 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-124</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1591</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32655</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660</Name>
+        <Title>MAX32660 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32660.</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.boards</Name>
+        <Title>MAX32660 Boards</Title>
+        <Description>MAX32660 Boards</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>66002</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.cmsis</Name>
+        <Title>MAX32660 CMSIS</Title>
+        <Description>MAX32660 CMSIS Files</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>745797</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.documentation</Name>
+        <Title>MAX32660 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32660</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.examples</Name>
+        <Title>MAX32660 Examples</Title>
+        <Description>MAX32660 Customer Examples</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>2481286</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.periphdrivers</Name>
+        <Title>MAX32660 Peripheral Drivers</Title>
+        <Description>MAX32660 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>9523452</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32660.target</Name>
+        <Title>MAX32660 Openocd Config File</Title>
+        <Description>MAX32660 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-16</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>398</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32660</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665</Name>
+        <Title>MAX32665 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32665.</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.boards</Name>
+        <Title>MAX32665 Boards</Title>
+        <Description>MAX32665 Boards</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>77518</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.cmsis</Name>
+        <Title>MAX32665 CMSIS</Title>
+        <Description>MAX32665 CMSIS Files</Description>
+        <Version>1.1.0-64</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-21</InstallDate>
+        <Size>1907015</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.documentation</Name>
+        <Title>MAX32665 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32665</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.examples</Name>
+        <Title>MAX32665 Examples</Title>
+        <Description>MAX32665 Customer Examples</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>3748144</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.periphdrivers</Name>
+        <Title>MAX32665 Peripheral Drivers</Title>
+        <Description>MAX32665 Specific Peripheral Drivers</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>21365904</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.sbt</Name>
+        <Title>MAX32665 SBT Packet</Title>
+        <Description>Provide SBT related key, scripts and prebuild SCP packets for MAX32665</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>89170</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32665.target</Name>
+        <Title>MAX32665 Openocd Config File</Title>
+        <Description>MAX32665 Specific Target Files need for OpenOCD</Description>
+        <Version>1.1.0-61</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1294</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32665</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670</Name>
+        <Title>MAX32670 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32670.</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.boards</Name>
+        <Title>MAX32670 Boards</Title>
+        <Description>MAX32670 Boards</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>39865</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.cmsis</Name>
+        <Title>MAX32670 CMSIS</Title>
+        <Description>MAX32670 CMSIS Files</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>867201</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.documentation</Name>
+        <Title>MAX32670 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32670</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.examples</Name>
+        <Title>MAX32670 Examples</Title>
+        <Description>MAX32670 Customer Examples</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>798096</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.periphdrivers</Name>
+        <Title>MAX32670 Peripheral Drivers</Title>
+        <Description>MAX32670 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>11168391</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32670.target</Name>
+        <Title>MAX32670 Openocd Config File</Title>
+        <Description>MAX32670 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-39</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>481</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32670</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672</Name>
+        <Title>MAX32672 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32672.</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.boards</Name>
+        <Title>MAX32672 Boards</Title>
+        <Description>MAX32672 Boards</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>39707</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.cmsis</Name>
+        <Title>MAX32672 CMSIS</Title>
+        <Description>MAX32672 CMSIS Files</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1051797</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.documentation</Name>
+        <Title>MAX32672 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32672</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.examples</Name>
+        <Title>MAX32672 Examples</Title>
+        <Description>MAX32672 Customer Examples</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>923585</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.periphdrivers</Name>
+        <Title>MAX32672 Peripheral Drivers</Title>
+        <Description>MAX32672 Specific Peripheral Drivers</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>12519789</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.sbt</Name>
+        <Title>MAX32672 SBT Packet</Title>
+        <Description>Provide SBT related key, scripts and prebuild SCP packets for MAX32672</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>166158</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32672.target</Name>
+        <Title>MAX32672 Openocd Config File</Title>
+        <Description>MAX32672 Specific Target Files need for OpenOCD</Description>
+        <Version>1.1.0-42</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>461</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32672</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675</Name>
+        <Title>MAX32675 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX32675.</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.boards</Name>
+        <Title>MAX32675 Boards</Title>
+        <Description>MAX32675 Boards</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>56666</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.cmsis</Name>
+        <Title>MAX32675 CMSIS</Title>
+        <Description>MAX32675 CMSIS Files</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1155661</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.documentation</Name>
+        <Title>MAX32675 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX32675</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>40</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.examples</Name>
+        <Title>MAX32675 Examples</Title>
+        <Description>MAX32675 Customer Examples</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>786751</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.periphdrivers</Name>
+        <Title>MAX32675 Peripheral Drivers</Title>
+        <Description>MAX32675 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>14277792</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max32675.target</Name>
+        <Title>MAX32675 Openocd Config File</Title>
+        <Description>MAX32675 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-35</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>481</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max32675</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000</Name>
+        <Title>MAX78000 Resources</Title>
+        <Description>Firmware, software, and documentation for the MAX78000.</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>0</Size>
+        <Dependencies>com.maximintegrated.dist.devices,com.maximintegrated.libraries.cmsis_core,com.maximintegrated.libraries.periphdrivers,net.launchpad.gcc.riscv.embedded</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.boards</Name>
+        <Title>MAX78000 Boards</Title>
+        <Description>MAX78000 Boards</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>309372</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.cmsis</Name>
+        <Title>MAX78000 CMSIS</Title>
+        <Description>MAX78000 CMSIS Files</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>1216872</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.documentation</Name>
+        <Title>MAX78000 SDK Documentation</Title>
+        <Description>SDK documentation for the MAX78000</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>8509</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.examples</Name>
+        <Title>MAX78000 Examples</Title>
+        <Description>MAX78000 Customer Examples</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>147004676</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.periphdrivers</Name>
+        <Title>MAX78000 Peripheral Drivers</Title>
+        <Description>MAX78000 Specific Peripheral Drivers</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>21880265</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.devices.max78000.target</Name>
+        <Title>MAX78000 Openocd Config File</Title>
+        <Description>MAX78000 Specific Target Files need for OpenOCD</Description>
+        <Version>1.0.0-142</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-26</InstallDate>
+        <Size>3247</Size>
+        <Dependencies>com.maximintegrated.dist.devices.max78000</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.dist.tools</Name>
+        <Title>MAXIM Microcontrollers Toolchain</Title>
+        <Description></Description>
+        <Version>1.0.0-29</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>0</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.installer</Name>
+        <Title>Installer Files for Windows</Title>
+        <Description></Description>
+        <Version>1.0.0-50</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>26706</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+        <Virtual>true</Virtual>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries</Name>
+        <Title>Product Libs</Title>
+        <Description></Description>
+        <Version>1.0.0-33</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.btle</Name>
+        <Title>Bluetooth Low Energy</Title>
+        <Description>Bluetooth low energy libraries for MAXIM Micros</Description>
+        <Version>1.0.0-78</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>15758495</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.cmsis_core</Name>
+        <Title>CMSIS Core Libraries</Title>
+        <Description>CMSIS core libraries for MAXIM micros</Description>
+        <Version>1.0.0-13</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>10095743</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.freeRTOS</Name>
+        <Title>FreeRTOS</Title>
+        <Description>FreeRTOS library for MAXIM micros</Description>
+        <Version>1.0.0-12</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>3764007</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.freeRTOS_plus</Name>
+        <Title>FreeRTOS-Plus</Title>
+        <Description>FreeRTOS-Plus library for MAXIM micros</Description>
+        <Version>1.0.0-13</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>11088700</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.lwIP</Name>
+        <Title>Lightweight TCP/IP stack</Title>
+        <Description>Lightweight TCP/IP library for MAXIM micros</Description>
+        <Version>1.0.0-24</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>13761665</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.maxusb</Name>
+        <Title>MAXUSB</Title>
+        <Description>MAXUSB library for MAXIM micros</Description>
+        <Version>1.0.0-24</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>395582</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.periphdrivers</Name>
+        <Title>Peripheral Drivers</Title>
+        <Description>All peripheral drivers for MAXIM micros</Description>
+        <Version>1.0.0-202</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>127210885</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.libraries.sdhc</Name>
+        <Title>SDHC</Title>
+        <Description>SDCard library for MAXIM micros</Description>
+        <Version>1.0.0-15</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>6667294</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.bt</Name>
+        <Title>Maxim Integrated Bootloader Tools</Title>
+        <Description>Provide utilities to communicate with Maxim microcontrollers boot loader</Description>
+        <Version>1.0.1-15</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.bt.base</Name>
+        <Title>Tools</Title>
+        <Description>Install msblGenerator, GUI tool, and documentation.</Description>
+        <Version>1.0.1-15</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>40427629</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.bt.devices</Name>
+        <Title>Device Parameters</Title>
+        <Description>Provide some bootloader binaries and test images for Maxim devices</Description>
+        <Version>1.0.1-15</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>2055825</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.bt.src</Name>
+        <Title>Source Code</Title>
+        <Description>Provide tools source code</Description>
+        <Version>1.0.1-15</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>365931</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.converter</Name>
+        <Title>Maxim Integrated BitmapConverter</Title>
+        <Description>Utilities to convert bitmap and font files to MAXIM specific format</Description>
+        <Version>1.0.0-12</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>0</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.converter.base</Name>
+        <Title>Maxim Integrated BitmapConverter Binaries</Title>
+        <Description>Bitmap Converter Binaries File</Description>
+        <Version>1.0.0-12</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>63877</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.converter.src</Name>
+        <Title>Maxim Bitmap Converter - Source Code</Title>
+        <Description>Provide tools source code</Description>
+        <Version>1.0.0-12</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>25458</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.sbt</Name>
+        <Title>Maxim Integrated Secure Tools</Title>
+        <Description>Provide utilities to use and communicate with Maxim microcontrollers secure boot loader </Description>
+        <Version>1.3.0-92</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.sbt.base</Name>
+        <Title>Maxim Integrated Secure Tools</Title>
+        <Description>Install "sign_app" and "build_scp_session" software binaries and useful documentation.</Description>
+        <Version>1.3.0-92</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>11078197</Size>
+        <ForcedInstallation>true</ForcedInstallation>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.sbt.devices</Name>
+        <Title>Devices definition and parameters</Title>
+        <Description>Provide default parameters, SCP scripts for Maxim devices</Description>
+        <Version>1.3.0-92</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.sbt.drivers</Name>
+        <Title>Secure Boot Loader USB Driver</Title>
+        <Description>Provide USB driver for the secure bootloader</Description>
+        <Version>1.0.3-92</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>1183</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>com.maximintegrated.tools.sbt.src</Name>
+        <Title>Secure Boot Tools - Source Code</Title>
+        <Description>Provide tools source code</Description>
+        <Version>1.3.0-92</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>12828132</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>net.launchpad.gcc.arm.embedded</Name>
+        <Title>GNU Tools for ARM Embedded Processors</Title>
+        <Description>GNU toolchain for ARM Cortex-M and Cortex-R processors (Cortex-M0/M0+/M3/M4, Cortex-R4/R5/R7).</Description>
+        <Version>9.2.0-24</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>520210543</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>net.launchpad.gcc.riscv.embedded</Name>
+        <Title>GNU RISC-V Embedded GCC</Title>
+        <Description>The xPack GNU RISC-V Embedded GCC toolchain for RISC-V processors.</Description>
+        <Version>8.3.0-1.1-3</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>1453570562</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>net.sourceforge.openocd</Name>
+        <Title>Open On-Chip Debugger</Title>
+        <Description>Free and open on-chip debugging, in-system programming and boundary-scan testing.</Description>
+        <Version>1.0.0-27</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>6670047</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>org.eclipse</Name>
+        <Title>Eclipse</Title>
+        <Description>Maxim Integrated Eclipse Distribution.</Description>
+        <Version>1.0.0-7</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>0</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>org.eclipse.cdt</Name>
+        <Title>Eclipse CDT</Title>
+        <Description>C and C++ integrated development environment based on the Eclipse platform.</Description>
+        <Version>9.1.0-25</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>390018325</Size>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>org.eclipse.plugin</Name>
+        <Title>Eclipse Plugin</Title>
+        <Description>Maxim's plugin for creating new projects</Description>
+        <Version>1.0.4-26</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-10-05</InstallDate>
+        <Size>414303</Size>
+        <Dependencies>org.eclipse.cdt</Dependencies>
+        <Checkable>true</Checkable>
+    </Package>
+    <Package>
+        <Name>org.tools.mingw</Name>
+        <Title>Minimalist GNU for Windows</Title>
+        <Description>Minimalist development environment for native Microsoft Windows applications.</Description>
+        <Version>2.6.0-11</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2021-09-14</InstallDate>
+        <Size>582927736</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>
